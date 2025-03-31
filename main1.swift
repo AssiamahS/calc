@@ -1,0 +1,7 @@
+print("Welcome to Calculator Swift App! Please emter a number to start this program!")
+let a = readLine()
+print("Please enter another!")
+let b = readLine()
+var n1 = int (a1)
+var n2 = int (b1)
+print ()
